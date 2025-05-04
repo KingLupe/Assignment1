@@ -1,0 +1,86 @@
+body {
+    background-image: url(Images/landing.jpg);
+    margin: 0%;
+    padding: 0%;
+    text-decoration-color: white;
+    font-family:'Bebas Neue'sans-serif;
+}
+
+.form-container {
+    display: flexbox;
+    background: rgba(0, 0, 0, 0.8);
+    width: 200px;
+    padding: 75px;
+    margin: 100px auto;
+    flex-direction: row;
+    text-align: center;
+    text-emphasis-color: white;
+
+}
+
+.form-container h1 {
+    color: white;
+    text-align: center;
+    font-family:sans-serif;
+
+}
+
+.form-container h2 {
+    color: white;
+
+}
+
+.form-container a {
+    color: white;
+}
+
+.form-container p {
+    color: gray;
+}
+
+.form-container label {
+    color: white;
+}
+
+
+.new {
+    color: grey;
+}
+
+.form-container input {
+    height: 50px auto;
+    width: auto;
+    margin: 2px;
+    padding: auto;
+    background: rgba(0, 0, 0, 0.3);
+    color: white;
+    border-radius: 6px;
+
+}
+
+.sign {
+    background-color: red;
+    color: white;
+    width: 85%;
+    cursor: pointer;
+    border-radius: 6px;
+}
+
+.code {
+    background-color: grey;
+    color: white;
+    width: 85%;
+    cursor: pointer;
+    background: rgba(121, 114, 114, 0.5);
+    border-radius: 6px;
+
+}
+
+.form-container img {
+    width: 15%;
+    position: absolute;
+    top: 0%;
+    left: 3%;
+
+
+}

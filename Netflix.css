@@ -3,6 +3,7 @@ body {
     margin: 0%;
     padding: 0%;
     text-decoration-color: white;
+    font-family:'Bebas Neue'sans-serif;
 }
 
 .form-container {
@@ -20,7 +21,7 @@ body {
 .form-container h1 {
     color: white;
     text-align: center;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family:sans-serif;
 
 }
 

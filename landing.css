@@ -28,5 +28,14 @@ body {
 
 .landing button {
     cursor: pointer;
+    align-self grid-auto-columns:position;
+
+}
+
+.users {
+    display: flex;
+  justify-content: center;
+  
+
 
 }
